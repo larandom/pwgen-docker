@@ -1,1 +1,1 @@
-# pwgen-rogue
+# pwgen-docker
